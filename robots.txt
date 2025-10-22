@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brazu56.github.io/MY-WEB/sitemap.xml
